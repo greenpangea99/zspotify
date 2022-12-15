@@ -1,6 +1,6 @@
 # zspotify
 ## Create Virtual Python Environment
-Damit du keine unnötigen installationen auf deinem allgemeinen Betriebssystem ausführen musst, würde ich empfehlen die Packete nur in ein sogenannten 'virtual environment' installieren.
+Damit du keine unnötigen installationen auf deinem allgemeinen Betriebssystem ausführen musst, würde ich empfehlen die Pakete nur in ein sogenannten 'virtual environment' zu installieren.
 1. Terminal öffnen und ins 'home' Verzeichnis gehen:
   ```
   cd ~
